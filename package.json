@@ -1,0 +1,24 @@
+{
+  "name": "capgemini_mock_sprint_group2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish73653/Capgemini_mock_sprint_Group2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashish73653/Capgemini_mock_sprint_Group2/issues"
+  },
+  "homepage": "https://github.com/Ashish73653/Capgemini_mock_sprint_Group2#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.8.2",
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0",
+    "playwright-bdd": "^7.0.0"
+  }
+}
