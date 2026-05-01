@@ -20,5 +20,8 @@
     "@playwright/test": "^1.59.1",
     "@types/node": "^25.6.0",
     "playwright-bdd": "^7.0.0"
+  },
+  "dependencies": {
+    "playwright": "^1.59.1"
   }
 }
