@@ -4,6 +4,8 @@
 
 ## 🧪 Test Scenario Distribution (4 Members)
 
+url: https://practicesoftwaretesting.com/
+
 ### 👤 Adarsh → Register
 
 1. Open website
